@@ -1,4 +1,4 @@
-Open Source Licenses & Copyright Notices
+# Open Source Licenses & Copyright Notices
 
 This repository contains unmodified redistribution of third-party open-source software packages. The original tarballs may not contain license files. The licenses for these components are available at their original upstream repositories:
 
