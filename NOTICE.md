@@ -8,6 +8,7 @@ This repository contains unmodified redistribution of third-party open-source so
 - nvidia-device-plugin: Licensed under Apache 2.0. Copyright (c) NVIDIA Corporation. [View License](https://github.com/NVIDIA/k8s-device-plugin/blob/main/LICENSE)
 - OpenEBS: Licensed under Apache 2.0. Copyright (c) OpenEBS Authors. [View License](https://github.com/openebs/openebs/blob/master/LICENSE)
 - RustFS: Licensed under Apache 2.0. Copyright (c) RustFS Authors. [View License](https://github.com/rustfs/rustfs/blob/master/LICENSE)
+- gpu-operator: Licensed under Apache 2.0. Copyright (c) NVIDIA Corporation. [View License](https://github.com/NVIDIA/gpu-operator/blob/main/LICENSE)
 
 ---
 
