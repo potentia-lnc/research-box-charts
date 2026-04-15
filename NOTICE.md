@@ -8,7 +8,10 @@ This repository contains unmodified redistribution of third-party open-source so
 - nvidia-device-plugin: Licensed under Apache 2.0. Copyright (c) NVIDIA Corporation. [View License](https://github.com/NVIDIA/k8s-device-plugin/blob/main/LICENSE)
 - OpenEBS: Licensed under Apache 2.0. Copyright (c) OpenEBS Authors. [View License](https://github.com/openebs/openebs/blob/master/LICENSE)
 - RustFS: Licensed under Apache 2.0. Copyright (c) RustFS Authors. [View License](https://github.com/rustfs/rustfs/blob/master/LICENSE)
+- flyte-binary: Licensed under Apache 2.0. Copyright (c) Flyte Authors. [View License](https://github.com/flyteorg/flyte/blob/master/LICENSE)
 - gpu-operator: Licensed under Apache 2.0. Copyright (c) NVIDIA Corporation. [View License](https://github.com/NVIDIA/gpu-operator/blob/main/LICENSE)
+- kuberay-operator: Licensed under Apache 2.0. Copyright (c) The KubeRay Authors. [View License](https://github.com/ray-project/kuberay/blob/master/LICENSE)
+- postgresql (Bitnami): Licensed under Apache 2.0. Copyright (c) Broadcom, Inc. [View License](https://github.com/bitnami/charts/blob/main/LICENSE.md)
 
 ---
 
